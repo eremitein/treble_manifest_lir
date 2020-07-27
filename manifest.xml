@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="phh" fetch="https://github.com/phhusson/" />
+<remote name="caos" fetch="https://github.com/eremitein/" />
+<project path="vendor/hardware_overlay" name="vendor_hardware_overlay" remote="phh" revision="pie" />
+<project path="device/phh/treble" name="device_phh_treble" remote="phh" revision="android-10.0" />
+<project path="vendor/vndk" name="vendor_vndk" remote="phh" revision="android-10.0" />
+<project path="vendor/vndk-tests" name="vendor_vndk-tests" remote="phh" revision="master" />
+<project path="vendor/gapps-go" name="gapps-go" remote="phh" revision="master" />
+<project path="vendor/interfaces" name="vendor_interfaces" remote="phh" revision="pie" />
+<project path="vendor/magisk" name="vendor_magisk" remote="phh" revision="android-10.0" />
+<project path="external/jura-fonts" name="external_jura-fonts_caos" remote="caos" revision="master" />
+<project path="external/cuprum-fonts" name="external_cuprum-fonts_caos" remote="caos" revision="master" />
+<project path="external/philosopher-fonts" name="external_philosopher-fonts_caos" remote="caos" revision="master" />
+<project path="external/ubuntu-fonts" name="external_ubuntu-fonts_caos" remote="caos" revision="master" />
+<project path="external/caveat-fonts" name="external_caveat-fonts_caos" remote="caos" revision="master" />
+<project path="external/oswald-fonts" name="external_oswald-fonts_caos" remote="caos" revision="master" />
+<project path="external/inter-fonts" name="external_inter-fonts_caos" remote="caos" revision="master" />
+<project path="external/pacifico-fonts" name="external_pacifico-fonts_caos" remote="caos" revision="master" />
+<project path="external/montserrat-fonts" name="external_montserrat-fonts_caos" remote="caos" revision="master" />
+<project path="external/viaodalibre-fonts" name="external_viaodalibre-fonts_caos" remote="caos" revision="master" />
+<project path="external/lobster-fonts" name="external_lobster-fonts_caos" remote="caos" revision="master" />
+<project path="external/alegreyasans-fonts" name="external_alegreyasans-fonts_caos" remote="caos" revision="master" />
+<project path="external/comfortaa-fonts" name="external_comfortaa-fonts_caos" remote="caos" revision="master" />
+<project path="external/exo2-fonts" name="external_exo2-fonts_caos" remote="caos" revision="master" />
+<project path="external/vollkorn-fonts" name="external_vollkorn-fonts_caos" remote="caos" revision="master" />
+<project path="external/cormorantinfant-fonts" name="external_cormorantinfant-fonts_caos" remote="caos" revision="master" />
+<project path="external/gabriela-fonts" name="external_gabriela-fonts_caos" remote="caos" revision="master" />
+<project path="external/arsenal-fonts" name="external_arsenal-fonts_caos" remote="caos" revision="master" />
+</manifest>
