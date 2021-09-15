@@ -25,4 +25,6 @@
 <project path="external/cormorantinfant-fonts" name="external_cormorantinfant-fonts_caos" remote="caos" revision="master" />
 <project path="external/gabriela-fonts" name="external_gabriela-fonts_caos" remote="caos" revision="master" />
 <project path="external/arsenal-fonts" name="external_arsenal-fonts_caos" remote="caos" revision="master" />
+<remote name="notmyst33d" fetch="https://github.com/notmyst33d/" />
+<project path="external/aptx" name="libaptX" remote="notmyst33d" revision="main" />
 </manifest>
